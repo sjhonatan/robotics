@@ -7,4 +7,3 @@ Pb = np.matrix('0;1;1;1')
 Pa = np.dot(T,Pb)
 
 Pa = Pa[0:3]
-
